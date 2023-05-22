@@ -489,3 +489,8 @@ input{
         transform: translateY(-2000px);
     }
 }
+.container form{
+    width: 100%;
+    border: 1px solid rgb(82, 74, 235);
+    border-radius: 4px;
+}
